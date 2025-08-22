@@ -1,2 +1,2 @@
 import streamlit as st
-st.title('조승연사랑해')
+st.title('우즈사랑해')
